@@ -2,7 +2,7 @@
 
 This project is a simple command-line program to play Battleship.
 
-A board is printed once the user runs the .py and the user will be prompted what to do during each turn, until they win or lose.
+A board is printed once the user runs the .py and the user will be prompted what to do during each turn, for a total of 5 turns, until they win or lose.
 
 ## Technology Used
 
