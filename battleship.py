@@ -35,7 +35,7 @@ def place_ship(board, shipSize):
     if not conflict:
       for r, c in coords:
         board[r][c] = "S" # S marks where the ship is
-      print(coords)
+      #print(coords)
       return coords
 
 def main_game():
